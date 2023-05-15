@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.portfolio.PortfolioGR.PortfolioGrApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 20.839 s - in com.portfolio.PortfolioGR.PortfolioGrApplicationTests
